@@ -1,0 +1,38 @@
+#greenZone {
+  width: 680px;
+  height: 45px;
+  position: relative;
+  margin: -132px 0 0 24px;
+  background-color: rgba(163, 245, 165, .5);
+  z-index: -5;
+}
+
+/*.outerBox {
+  width: 700px;
+  height: 500px;
+  position: absolute;
+  margin: 0 auto;
+  border: solid 4px black;
+}*/
+
+canvas {
+  position: relative;
+}
+
+/*
+
+body { font: 12px Arial;}
+
+path {
+    stroke: steelblue;
+    stroke-width: 2;
+    fill: none;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}*/
